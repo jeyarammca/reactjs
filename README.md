@@ -1,5 +1,7 @@
 # React Interview Questions & Answers
 
+Click ⭐if you like the project. Pull Requests are highly appreciated.
+
 ### Table of Contents
 
 | No. | Questions |
